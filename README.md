@@ -1,2 +1,5 @@
 # HTML-CSS-BOOTSTRAP
-Estudos HTML, CSS, BOOTSTRAP e JavaScript - NodeJS
+Estudos: Html - Css - Bootstrap - JavaScript - NodeJS
+
+Aqui os adicionarei todo meu progresso, ideias, estudos, desenvolvilmento e descobertas na programacão web trabalhando com Front-end e Back-end JavaScript e NodeJS
+ 
